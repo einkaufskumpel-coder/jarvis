@@ -509,7 +509,7 @@ function elevenKey() {
   }
 }
 
-const VOICE_ID = process.env.JARVIS_VOICE_ID ?? 'JBFqnCBsd6RMkjVDRZzb'
+const VOICE_ID = process.env.JARVIS_VOICE_ID ?? 'FZI9WIiKSX4Tc340NLfq'
 
 /**
  * Where /file is permitted to read from, and how big a read may get.
