@@ -40,6 +40,8 @@ language.
 
 ---
 
+> **Auf Deutsch / fürs Handy:** siehe [docs/HANDY-EINRICHTUNG.md](docs/HANDY-EINRICHTUNG.md).
+
 ## Quick start
 
 First, install, then start it:
